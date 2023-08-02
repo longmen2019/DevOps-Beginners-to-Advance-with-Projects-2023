@@ -1,0 +1,53 @@
+VM-Automatically(Windows&MacOS Intel Chip)
+$ history
+    1  ssh devops@192.168.0.6
+    2  ssh centosuer@192.168.0.4
+    3  ssh centosuer@198.168.0.4
+    4  ssh centosuer@198.168.0.4
+    5  pwd
+    6  cd /c/
+    7  ls
+    8  vagrant version
+    9  cd vagrant
+   10  cd vagrant-vms
+   11  cd centos
+   12  vagrant --init-- eurolinux-vagrant/centos-stream-9
+   13  ls
+   14  vagrant init eurolinux-vagrant/centos-stream-9
+   15  ls
+   16  cat Vagrantfile
+   17  Vagrant up
+   18  vagrant box list
+   19  vagrant status
+   20  vagrant ssh
+   21  vagrant halt
+   22  vagrant up
+   23  vagrant reload
+   24  vagrant destroy
+   25  vagrant status
+   26  vagrant up
+   27  vagrant box list
+   28  vagrant halt
+   29  clear
+   30  pwd
+   31  cd ..
+   32  ls
+   33  cd ubuntu/
+   34  pwd
+   35  cd /c/vagrant-vms/ubuntu/
+   36  vagrant init ubuntu/jammy64
+   37  ls
+   38  vagrant up
+   39  vagrant status
+   40  vagrant global-status
+   41  vagrant global-status --prune
+   42  vagrant status
+   43  vagrant ssh
+   44  vagrant halt
+   45  vagrant global-status
+   46  cd /c/vagrant-vsm/centos/
+   47  cd /c/vagrant-vms/centos
+   48  vagrant up
+   49  vagrant halt
+   50  clear
+   51  history
